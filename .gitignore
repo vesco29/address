@@ -1,0 +1,7 @@
+venv
+sorted.csv
+__pypackages__/
+__pycache__
+.pytest_cache
+*.pyc 
+.vscode
